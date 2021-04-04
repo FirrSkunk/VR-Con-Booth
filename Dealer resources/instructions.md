@@ -1,0 +1,1 @@
+The files in this folder are templates for the VR con booth.  Just fit your images into the squared provided and export it as a PNG.  
