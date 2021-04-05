@@ -5,9 +5,17 @@
 This git is a collection of assets and tools for both artists and conventions to make a standardized convention "booth" for dealer's dens.  This lets artists reuse assets from convetnion to convention and allows conventions to focus more on the rest of the dealer's den instead of manually inporting artist assets.  
 
 ## Check it out
-In the main github page [here](https://github.com/FirrSkunk/VR-Con-Booth/tree/main/Dealer%20resources) there's an example PSD and PNG file with the dimensions for an artist to make their booth file from.  Download that, make your image, and save it as a PNG.  
+In the main github page 
 
-To test your image and see what it looks like on an example page, you can use [this page](/example/index.html) to check it out on a virtual model.  Have fun!
+[here](https://github.com/FirrSkunk/VR-Con-Booth/tree/main/Dealer%20resources) 
+
+there's an example PSD and PNG file with the dimensions for an artist to make their booth file from.  Download that, make your image, and save it as a PNG.  
+
+To test your image and see what it looks like on an example page, you can use 
+
+[this page](/example/index.html)
+
+to check it out on a virtual model.  Have fun!
 
 ![image](https://user-images.githubusercontent.com/59941415/113522209-b0ca8100-956c-11eb-971f-2e2dda801755.png)
 
