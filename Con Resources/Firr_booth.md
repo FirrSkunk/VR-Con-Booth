@@ -1,0 +1,1 @@
+This is the version that Firr made as the example and the model used for the web preview page.  You can use the FBX to drag and drop into your unity project for VRchat or natively in NEOS.  The STL is mostly for previewing on github.  
